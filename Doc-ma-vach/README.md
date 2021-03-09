@@ -1,1 +1,1 @@
-#Reading bar code
+# Reading bar code
